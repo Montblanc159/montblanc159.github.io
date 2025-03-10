@@ -2,10 +2,9 @@
 template = "index.html"
 +++
 
-# TiKi médiation animale
-<div>
+# Tiki Médiation Animale
+
 Site en construction...
-</div>
 
 ## Contact
 
