@@ -9,6 +9,6 @@ Site en construction...
 
 ## Contact
 
-contact@tiki-mediation-animale.fr
+contact@tikiservices.fr
 
 +33 (0)6 95 02 20 55
