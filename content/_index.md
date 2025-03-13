@@ -2,7 +2,7 @@
 template = "index.html"
 +++
 
-![Tiki médiation animale](./tiki-mediation-animale_logo.webp)
+![Tiki médiation animale](./tiki-mediation-logo.webp)
 
 # Tiki - Médiation par l'animal
 
