@@ -6,6 +6,8 @@ template = "index.html"
 
 # Tiki - Médiation par l'animal
 
+Médiation par l'animal à Rennes et alentours.
+
 Site en construction...
 
 ## Contact
