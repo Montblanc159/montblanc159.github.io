@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Imported;
+    src: url(./Cabin.ttf);
+}
+
+* {
+    font-family: Imported,
+        'Gill Sans',
+        'Gill Sans MT',
+        Calibri,
+        'Trebuchet MS',
+        sans-serif;
+    ;
+}
