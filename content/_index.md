@@ -1,13 +1,16 @@
 +++
 template = "index.html"
 +++
-![Tiki médiation animale](./tiki-mediation-logo.webp)
+<header>
 
+![Tiki médiation animale](./tiki-mediation-logo.webp)
 # Médiation par l'animal en Ille-et-Vilaine
 
+</header>
 
-<section class="cards">
-<article class="card">
+
+<section class="sections">
+<article class="section">
 
 ## POURQUOI ?
 
@@ -15,7 +18,7 @@ La médiation par l’animal vise à améliorer et maintenir le bien-être physi
 L’animal, par son comportement spontané et non jugeant va encourager l’élan à l’interaction et créer des situations collaboratives. Ces situations vont permettre de viser des objectifs individuels préalablement choisis dans les sphères de la motricité, du cognitif, du sensoriel et du psychoaffectif.
 
 </article>
-<article class="card">
+<article class="section">
 
 ## POUR QUI ?
 
@@ -24,7 +27,7 @@ Je me déplace avec mes animaux, à domicile ou en structure, dans les FAM, MAS,
 Pour des séances individuelles ou collectives de 2 à 5 participants.
 
 </article>
-<article class="card">
+<article class="section">
 
 ## COMMENT ?
 
@@ -36,26 +39,72 @@ L’équipe accompagnante est invitée à participer aux séances afin de permet
 </article>
 </section>
 
-
 ## L’ÉQUIPE
 
+<section class="cards">
+<article class="card">
 
-- Elsa Ribis, intervenante en médiation par l’animal avec mes propres animaux depuis Avril 2025, intervenante en médiation animale au sein de l’association Umanima depuis 2022.
-  - Formée et certifiée en médiation par l’animal, je suis titulaire de l’ACACED et d’une assurance responsabilité civile professionnelle. J’accorde une importance particulière au bien-être de mes animaux qui ont un suivi vétérinaire adapté.
+![Elsa](https://picsum.photos/id/237/400/300)
+### Elsa Ribis
 
-- Chacha, 8 ans, chienne croisée Leonberg.
-  - Elle est très douce et patiente et s’adapte à tous les publics différents pourvu qu’on lui gratte le ventre.
+<div class="card__text-container">
 
-- Fifi, 1 an, lapin angora croisé bélier.
-  - Il a son caractère et aime bien faire des bêtises pour amuser la galerie, mais calme et sûr de lui, il apprécie beaucoup les séances de caresses sur les genoux.
+**Intervenante en médiation par l’animal avec mes propres animaux depuis Avril 2025, intervenante en médiation animale au sein de l’association Umanima depuis 2022.**
+Formée et certifiée en médiation par l’animal, je suis titulaire de l’ACACED et d’une assurance responsabilité civile professionnelle. J’accorde une importance particulière au bien-être de mes animaux qui ont un suivi vétérinaire adapté.
 
-- Zouzou, 8 mois, Goldendoodle (croisement golden retriever et caniche royal).
-  - Encore en formation puisque trop jeune pour travailler, Zouzou vient parfois observer sa congénère Chacha en action pour en prendre de la graine.
+</div>
 
-<section class="cornered-fixed">
+
+</article>
+
+<article class="card">
+
+![Shasha](https://picsum.photos/id/237/400/300)
+### Chacha
+
+<div class="card__text-container">
+
+**8 ans, chienne croisée Leonberg.**
+Elle est très douce et patiente et s’adapte à tous les publics différents pourvu qu’on lui gratte le ventre.
+
+</div>
+</article>
+
+<article class="card">
+
+![Fifi](https://picsum.photos/id/237/400/300)
+### Fifi
+
+<div class="card__text-container">
+
+**1 an, lapin angora croisé bélier.**
+Il a son caractère et aime bien faire des bêtises pour amuser la galerie, mais calme et sûr de lui, il apprécie beaucoup les séances de caresses sur les genoux.
+
+</div>
+</article>
+
+<article class="card">
+
+![Zouzou](https://picsum.photos/id/237/400/300)
+### Zouzou
+
+<div class="card__text-container">
+
+**8 mois, Goldendoodle (croisement golden retriever et caniche royal).**
+Encore en formation puisque trop jeune pour travailler, Zouzou vient parfois observer sa congénère Chacha en action pour en prendre de la graine.
+
+</div>
+</article>
+</section>
+
+
+<footer>
 
 ## CONTACT
 Les devis sont gratuits et sans engagements, n’hésitez pas à me faire part de votre projet :
 
-[contact@tikiservices.fr](mailto:contact@tikiservices.fr) / [+33(0)6 95 02 20 55](tel:+33695022055)
-</section>
+[contact@tikiservices.fr](mailto:contact@tikiservices.fr)
+
+[+33(0)6 95 02 20 55](tel:+33695022055)
+
+</footer>
