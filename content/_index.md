@@ -39,9 +39,10 @@ L’équipe accompagnante est invitée à participer aux séances afin de permet
 </article>
 </section>
 
-## L’ÉQUIPE
 
 <section class="cards">
+
+## L’ÉQUIPE
 <article class="card">
 
 ![Elsa](https://picsum.photos/id/237/400/300)
